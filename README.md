@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi I'm Kai-Neng Chiu(Ian)
+🎓 國立高雄科技大學 (National Kaohsiung University of Science and Technology)
 
 <!--
 **KNChiu/KNChiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
