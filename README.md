@@ -3,7 +3,8 @@
 
 ### Hi I'm Kai-Neng Chiu(Ian)
 - 🎓 國立高雄科技大學 (NKUST)
-- 
+- 📫 Machine Learning , Deep Learning
+- ⚡ 3DP , MCU Firmware , FPGA
 
 
 <img height="160" align="center" src="https://github-profile-trophy.vercel.app/?username=KNChiu&column=7&margin-w=5" />
