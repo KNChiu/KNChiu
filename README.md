@@ -1,5 +1,5 @@
 ### Hi I'm Kai-Neng Chiu(Ian)
-🎓 國立高雄科技大學 (National Kaohsiung University of Science and Technology)
+- 🎓 國立高雄科技大學 (National Kaohsiung University of Science and Technology)
 <img height="160" align="right" src="https://github-readme-stats.vercel.app/api?username=KNChiu&show_icons=True&count_private=True" />
 <img height="160" align="center" src="https://github-profile-trophy.vercel.app/?username=KNChiu&column=7&margin-w=5" />
 
