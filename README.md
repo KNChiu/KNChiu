@@ -1,5 +1,6 @@
 ### Hi I'm Kai-Neng Chiu(Ian)
 🎓 國立高雄科技大學 (National Kaohsiung University of Science and Technology)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)
 
 <!--
 **KNChiu/KNChiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
