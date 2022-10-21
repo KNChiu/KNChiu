@@ -2,7 +2,7 @@
 <img height="160" align="right" src="https://github-readme-stats.vercel.app/api?username=KNChiu&show_icons=True&count_private=True" />
 
 ### Hi I'm Kai-Neng Chiu(Ian)
-- 🎓 國立高雄科技大學 (NKUST)
+- 🔭 AUO Corporation (AUO)
 - 📫 Machine Learning , Deep Learning
 - ⚡ 3DP , MCU Firmware , FPGA
 
