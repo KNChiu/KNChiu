@@ -1,4 +1,3 @@
-
 <img height="160" align="right" src="https://github-readme-stats.vercel.app/api?username=KNChiu&show_icons=True&count_private=True" />
 
 ### Hi I'm Kai-Neng Chiu(Ian)
@@ -6,10 +5,9 @@
 - 📫 Machine Learning , Deep Learning
 - ⚡ 3DP , MCU Firmware , FPGA
 
-<!--
-<img height="160" align="center" src="https://github-profile-trophy.vercel.app/?username=KNChiu&column=7&margin-w=5" />
--->
-[![trophy](https://github-profile-trophy.vercel.app/?username=KNChiu&no-frame=true&column=5&row=&theme=flat2&margin-w=15&margin-h=15&title=MultiLanguage,Repositories,Experience,Commits)](https://github.com/ryo-ma/github-profile-trophy)
+<br>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=KNChiu&no-frame=true&column=5&row=&theme=flat2&margin-w=30&margin-h=15&title=MultiLanguage,Repositories,Experience,Commits,PullRequest)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **KNChiu/KNChiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -27,6 +25,3 @@ Here are some ideas to get you started:
 -->
 <!--
 **BlackyYen/BlackyYen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
