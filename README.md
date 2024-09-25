@@ -2,8 +2,8 @@
 
 ### Hi I'm Kai-Neng Chiu(Ian)
 - 🔭 ASUSTeK(ASUS)
-- 📫 Machine Learning , Deep Learning
-- ⚡ 3DP , MCU Firmware , FPGA
+- 📫 LLM, Machine Learning, Deep Learning
+- ⚡ 3DP, MCU Firmware, FPGA, Web
 
 <br>
 
