@@ -1,7 +1,7 @@
 <img height="160" align="right" src="https://github-readme-stats.vercel.app/api?username=KNChiu&show_icons=True&count_private=True" />
 
 ### Hi I'm Kai-Neng Chiu(Ian)
-- 🔭 ASUSTeK(ASUS)
+- 🔭 ASUS
 - 📫 LLM, Machine Learning, Deep Learning
 - ⚡ 3DP, MCU Firmware, FPGA, Web
 
